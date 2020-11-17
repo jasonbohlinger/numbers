@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Jason Bohlinger 
+2. Student ID: 2364725
+3. Email: jbohlinger@chapman.edu
+4. Class: CPSC298 - 01
 5. Assignment: numbers 
 
 ## Application Purpose
